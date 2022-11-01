@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2b83938c","path":"/upgrade/","title":"\u5361\u724C\u5347\u7EA7","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"\u5347\u7EA7\u6C60","slug":"\u5347\u7EA7\u6C60","link":"#\u5347\u7EA7\u6C60","children":[]}],"git":{},"filePathRelative":"upgrade/README.md"}');export{e as data};
